@@ -1,12 +1,12 @@
 {
   "name": "node-js-sample",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Example Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "5.1.3"
   }
 }
